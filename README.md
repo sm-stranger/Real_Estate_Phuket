@@ -1,2 +1,3 @@
-# Real Estate Phuket
-This Repository Contains Real Estate Phuket Website
+```
+wget -O install.sh https://
+```
