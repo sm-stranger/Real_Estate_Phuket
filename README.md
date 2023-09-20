@@ -1,2 +1,2 @@
-# Real_Estate_Phuket
+# Real Estate Phuket
 This Repository Contains Real Estate Phuket Website
